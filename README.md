@@ -12,9 +12,11 @@
 > ingresar la contraseña de su raspberry
 ![image](https://user-images.githubusercontent.com/78398897/188003287-1d9a8786-8a5b-4b05-9024-23ccf30627cd.png)
 
-![2022-09-01 (3)](https://user-images.githubusercontent.com/78398897/188002538-aaec3d98-97cd-4704-ada6-0e1bf0e74c2d.jpg)
  - una vez establecida la conexión, en extensiones les asomará una segurencia de instalar una extensión en el raspberry
- - instalarla y esperar hasta que se realice correctamente la conexión
+
+![2022-09-01 (3)](https://user-images.githubusercontent.com/78398897/188002538-aaec3d98-97cd-4704-ada6-0e1bf0e74c2d.jpg)
+
+- instalarla y esperar hasta que se realice correctamente la conexión
  - si solicita un reload o reboot, hacerlo
 > Al final colocar en un nuevo terminal dentro de VSCode el siguiente comando dando acceso 
  - a la carpeta que desee guardar los archivos donde programará
